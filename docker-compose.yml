@@ -1,0 +1,6 @@
+version: '2'
+services:
+  how2container:
+    build:
+      context: .
+    image: how2container:latest
